@@ -6,11 +6,6 @@ tu no tienes nada,
 tengo tres ovejas
 en una cabaña.
 
-viendo una estrella
-en la oscuridad,
-en donde era tarde
-escribir demas.
-
 una me da leche,
 otra me da lana,
 otra me mantiene
@@ -21,3 +16,4 @@ llevame de aqui,
 llevame hasta el pueblo
 donde yo naci.
 
+Alfredo Cardenas Gaytan 1599760
