@@ -11,3 +11,7 @@ otra me da lana,
 otra me mantiene
 toda la semana.
 
+caballito blanco,
+llevame de aqui,
+llevame hasta el pueblo
+donde yo naci.
